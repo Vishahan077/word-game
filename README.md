@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-This project is completely developed by Arvind Acharya
+This project is completely developed by Vishahan
 
 ## Getting Started
 
